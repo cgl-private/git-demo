@@ -13,5 +13,8 @@ hello world!!!
 hello world!!! master test
 hello world!!! hot-fix test
 1111111111111111
+<<<<<<< HEAD
 vs code
 6.21test
+=======
+>>>>>>> parent of 872744f (Update hello.txt)
